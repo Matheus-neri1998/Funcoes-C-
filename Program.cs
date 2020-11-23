@@ -13,26 +13,29 @@ namespace Funcoes_C_
 
         for (var i = 0; i < numeros.Length; i++)
         {
-          // soma = soma + numeros [1]
+          // soma = soma + numeros [i];
           soma+= numeros[i];
-       }
+        }
+
+        float resultado = soma / numeros.Length;
+
+        return resultado;
 
     }
-
-
         static void Main(string[] args)
         {
-           // void = função
-           // float = Variável que serve para números decimais
+           /* void = função vazia
+           float = Variável que serve para números decimais
 
-          // Exercício: Faça um programa que receba o nome e quatro notas de 10 alunos e armezena
-          // essas notas em votores. Calcule e mostre: 
-          // A) A média do aluno - Função 
-          // B) A quantidade de Aprovados (Média >=7)
-          // C) A quantidade de reprovados (Média <=7)
-          // D) A média geral dos 10 alunos //
+          /* Exercício: Faça um programa que receba o nome e quatro notas de 10 alunos e armezena
+          essas notas em votores. Calcule e mostre: 
+          A) A média do aluno - Função 
+          B) A quantidade de Aprovados (Média >=7)
+          C) A quantidade de reprovados (Média <=7)
+          D) A média geral dos 10 alunos */
 
-          string [] nomes = new string[10];
+         // Criar as variáveis necessárias
+          string [] nomes = new string[2];
           float[] medias = new float[7];
           float[] notas = new float [4];
 
@@ -44,13 +47,13 @@ namespace Funcoes_C_
             Console.WriteLine("Digite o nome do aluno : ");
             nomes[i] = Console.ReadLine(); // laço com o nome dos alunos definido
 
-            for (int n = 0; i < notas.Length; i++)
-            {
-              Console.WriteLine("Digite a "+(n+1)+ "° nota"); // ($"Digite a {(n+1)}° nota:") > Outra forma usando interpolação, com $
-              notas[i] = float.Parse( Console.ReadLine() ); // laço das notas
-            }
-            // Calcula a média fora do laço de notas
-            // medias[i] = (notas[0]) + (notas[1]) + (notas[2]) + (notas[3]) + (notas[4]) / 7;
+              for (int n = 0; n < notas.Length; n++)
+              {
+                Console.WriteLine("Digite a "+(n+1)+"° nota:"); // ($"Digite a {(n+1)}° nota: ") > Outra forma usando interpolação, com $
+                notas[n] = float.Parse( Console.ReadLine() ); // laço das notas
+              }
+          // Calcula a média fora do laço de notas
+          // medias[i] = (notas[0] + notas[1] + notas[2] + notas[3] + notas[4]) / 7;
 
             medias[i] = CalcularMedia(notas);
 
@@ -66,16 +69,18 @@ namespace Funcoes_C_
             Console.WriteLine(name);
           }
 
+          Console.ForegroundColor = ConsoleColor.Red;
+
           // Mostramos as infos
           for (var i = 0; i < nomes.Length; i++)
           {
             // Interpolação
-            Console.WriteLine($"Nome: {nomes[i]} Média: {medias[i]} ");
+            Console.WriteLine($"Nome: {nomes[i]} Média: {medias[i]}");
           }
 
           Console.ResetColor();
 
-          Console.WriteLine("Média geral da turma: " + CalcularMedia(medias));
+          Console.WriteLine("Média geral da turma:"  + CalcularMedia(medias));
           
         } // Fim de Main
     } 
