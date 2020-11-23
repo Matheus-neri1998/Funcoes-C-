@@ -1,0 +1,26 @@
+C:\Users\dev\Desktop\Funcoes-C-\bin\Debug\netcoreapp3.1\Funcoes-C-.exe
+C:\Users\dev\Desktop\Funcoes-C-\bin\Debug\netcoreapp3.1\Funcoes-C-.deps.json
+C:\Users\dev\Desktop\Funcoes-C-\bin\Debug\netcoreapp3.1\Funcoes-C-.runtimeconfig.json
+C:\Users\dev\Desktop\Funcoes-C-\bin\Debug\netcoreapp3.1\Funcoes-C-.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Funcoes-C-\bin\Debug\netcoreapp3.1\Funcoes-C-.dll
+C:\Users\dev\Desktop\Funcoes-C-\bin\Debug\netcoreapp3.1\Funcoes-C-.pdb
+C:\Users\dev\Desktop\Funcoes-C-\obj\Debug\netcoreapp3.1\Funcoes-C-.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Funcoes-C-\obj\Debug\netcoreapp3.1\Funcoes-C-.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Funcoes-C-\obj\Debug\netcoreapp3.1\Funcoes-C-.AssemblyInfo.cs
+C:\Users\dev\Desktop\Funcoes-C-\obj\Debug\netcoreapp3.1\Funcoes-C-.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Funcoes-C-\obj\Debug\netcoreapp3.1\Funcoes-C-.dll
+C:\Users\dev\Desktop\Funcoes-C-\obj\Debug\netcoreapp3.1\Funcoes-C-.pdb
+C:\Users\dev\Desktop\Funcoes-C-\obj\Debug\netcoreapp3.1\Funcoes-C-.genruntimeconfig.cache
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Funcoes-C-\bin\Debug\netcoreapp3.1\Funcoes-C-.exe
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Funcoes-C-\bin\Debug\netcoreapp3.1\Funcoes-C-.deps.json
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Funcoes-C-\bin\Debug\netcoreapp3.1\Funcoes-C-.runtimeconfig.json
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Funcoes-C-\bin\Debug\netcoreapp3.1\Funcoes-C-.runtimeconfig.dev.json
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Funcoes-C-\bin\Debug\netcoreapp3.1\Funcoes-C-.dll
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Funcoes-C-\bin\Debug\netcoreapp3.1\Funcoes-C-.pdb
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Funcoes-C-\obj\Debug\netcoreapp3.1\Funcoes-C-.csprojAssemblyReference.cache
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Funcoes-C-\obj\Debug\netcoreapp3.1\Funcoes-C-.AssemblyInfoInputs.cache
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Funcoes-C-\obj\Debug\netcoreapp3.1\Funcoes-C-.AssemblyInfo.cs
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Funcoes-C-\obj\Debug\netcoreapp3.1\Funcoes-C-.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Funcoes-C-\obj\Debug\netcoreapp3.1\Funcoes-C-.dll
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Funcoes-C-\obj\Debug\netcoreapp3.1\Funcoes-C-.pdb
+C:\Users\Matheus Neri\OneDrive\Área de Trabalho\Funcoes-C-\obj\Debug\netcoreapp3.1\Funcoes-C-.genruntimeconfig.cache
